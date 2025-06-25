@@ -59,4 +59,23 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 *Documents suplémentaires et données brutes*  
 - ### Exploitation des acquis théoriques
 
+## 🗣  Structure de la présentation orale
+*Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
+- ### Introduction 
+*Présentation de la problématique et les objectifs de la présentation*  
+- ### Méthodologie  
+*Description des méthodes de recherche et les critères de sélections des sources*  
+- ### Résultat  
+*Présentation des principales découvertes et analyse des données*
+- ### Discussion 
+*Interprétation des résultats et comparaison avec l'État de l'Art*  
+- ### Propositions et recommandations
+*Solutions envisagées et perspectives futures*  
+- ### Conclusion   
+*Synthèse des principaux points et réflexion finale*
+
+
+
+
+
 
