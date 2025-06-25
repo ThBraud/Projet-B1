@@ -17,4 +17,8 @@
 - [Vulnérabilité 5G : Les nouveaux terrains de jeu des cybercriminels](https://www.servicesmobiles.fr/vulnerabilites-5g-les-nouveaux-terrains-de-jeu-des-cybercriminels-95941)
   - Auteur : *La Rédaction*
   - Date : **15 Mars 2024**
-  
+
+- [Mise en œuvre de solutions de sécurité 5G robustes ](https://www.secure-ic.fr/applications/challenges/5g/?utm_source=chatgpt.com)
+  - Auteur : *Secure IC*
+  - Date : **Non disponible**
+
