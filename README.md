@@ -35,3 +35,9 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
   - 5 minutes de débriefing
 - Soutenance officielle : **4 Juillet 2025**
 
+## Structure du Rapport écrit  
+*Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
+- Page de Garde
+*Titre, nom des membres, date de soumission*
+
+
