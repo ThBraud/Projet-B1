@@ -13,3 +13,8 @@
 - [Protection des réseaux 5G : Le rôle de l’intelligence sur la menace](https://www.orangecyberdefense.com/fr/insights/blog/threat-management/protection-des-reseaux-5g-le-role-de-lintelligence-sur-la-menace)
   - Auteur : *Orange Cyberdéfense*
   - Date : **7 décembre 2022**
+
+- [Vulnérabilité 5G : Les nouveaux terrains de jeu des cybercriminels](https://www.servicesmobiles.fr/vulnerabilites-5g-les-nouveaux-terrains-de-jeu-des-cybercriminels-95941)
+  - Auteur : *La Rédaction*
+  - Date : **15 Mars 2024**
+  
