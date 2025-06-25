@@ -12,12 +12,12 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - Proposer des solutions ou des recommandations basées sur les recherches effectuées.
 - Exploiter les acquis théoriques des cours techniques, veille technologique, expression écrite, expression orale, et outils bureautiques (Excel, Word, PowerPoint).
 ## :blue_book: Livrables Attendus  
-### **1. Rapport écrit**
+### **Rapport écrit**
 - Format : A4, entre 15 et 19 pages hors annexes (page de garde, table des matières, captures d’écran)
 - Police : Taille 12, interlignes et marges standards
 - Remise : Format numérique, avant le **20 juin**
 
-### **2. Présentation orale**
+### **Présentation orale**
 - Durée totale : 30 minutes  
   - 15 minutes d’exposé  
   - 10 minutes de questions-réponses  
