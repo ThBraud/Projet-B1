@@ -50,5 +50,5 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - ### Résultats et discussion
 *Présentation des résultats obtenus*  
 - ### Propostions et recommandations  
-
+*Solutions envisagées, persepectives futures et impact potentiel*
 
