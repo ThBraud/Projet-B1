@@ -66,3 +66,28 @@
 - [La technologie 5G est-elle dangereuse ? Les avantages et les inconvénients du réseau 5G ](https://www.kaspersky.fr/resource-center/threats/5g-pros-and-cons)
   - Auteur : *Kaspersky*
   - Date : **Non disponible**
+
+- [Cinq défis de sécurité 5G que les fournisseurs de services doivent relever ](https://www.nomios.be/fr/actualite/cinq-defis-de-securite-5g/)
+  - Auteur : *Ditri Trio*
+  - Date : **30 Juillet 2020**
+  
+- [5G et 6G : quels impacts sur l’innovation et la durabilité en entreprise ?](https://bigmedia.bpifrance.fr/nos-dossiers/5g-et-6g-quels-impacts-sur-linnovation-et-la-durabilite-en-entreprise#:~:text=La%205G%20entreprise%20offre%20des,service%20pour%20ses%20cslients%20professionnels.)
+  - Acteur : *Big Media*
+  - Date : **18 décembre 2024**
+
+- [Comment la 5G impacte-t-elle la sécurité des usines 4.0 ? ](https://www.sfrbusiness.fr/room/5g/comment-la-5g-impacte-securite-usine-40.html)
+  - Auteur : *SFR Business*
+  - Date : **23 avril 2025**
+
+- [Cybersécurité : quand les objets connectés et le réseau 5G se menacent ](https://www.efrei.fr/cybersecurite-quand-les-objets-connectes-et-le-reseau-5g-se-menacent/) 
+  - Auteur : *Effrei Paris Panthéon ASSAS Université*
+  - Date : **28 novembre 2023**
+
+- [5G : quels risques pour les entreprises ?](https://www.exclusive-networks.com/fr/5g-quels-risques-pour-les-entreprises-par-jean-marc-muselli/)
+  - Auteur : *Juliette Walk et Jean Marc Muselli*
+  - Date : **7 avril 2021**
+
+- [La 5G en mal de sécurité ](https://lejournal.cnrs.fr/articles/la-5g-en-mal-de-securite)
+  - Auteur : *Martin Koppe*
+  - Date : **23 novembre 2018**
+
