@@ -6,7 +6,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ## Collaborateur de ce projet  
 
-👨  [Lucas MOLENDI](https://github.com/LucasMolendi)  
+### 👨  [Lucas MOLENDI](https://github.com/LucasMolendi)  
 
 ## 🧠  Le sujet 
 
@@ -72,7 +72,16 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - ### Propositions et recommandations
 *Solutions envisagées et perspectives futures*  
 - ### Conclusion   
-*Synthèse des principaux points et réflexion finale*
+*Synthèse des principaux points et réflexion finale* 
+
+## 👩‍🏫  Suivi du projet
+- 3 rendez-vous avec notre accompagnant et des comptes rendus avant chaque rendez-vous
+
+##  📊 : Evaluation  
+- Rapport écrit : 50 %
+- Présentation orale : 35 %
+- Implication et suivi : 15 %
+
 
 
 
