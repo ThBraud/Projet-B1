@@ -22,4 +22,4 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
   - 15 minutes d’exposé  
   - 10 minutes de questions-réponses  
   - 5 minutes de débriefing
-- Soutenance officielle : **[4 Juillet 2025]**
+- Soutenance officielle : **4 Juillet 2025**
