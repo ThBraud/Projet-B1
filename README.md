@@ -16,7 +16,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ## :dart: Objectifs du projet  
 - Développer une compréhension approfondie de la problématique choisie.
-- Réaliser une veille technologique exhaustive sur le sujet.
+- Réaliser une veille technologique exhaustive sur le suje
 - Proposer des solutions ou des recommandations basées sur les recherches effectuées.
 - Exploiter les acquis théoriques des cours techniques, veille technologique, expression écrite, expression orale, et outils bureautiques (Excel, Word, PowerPoint).
 
@@ -38,6 +38,9 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 ## Structure du Rapport écrit  
 *Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
 - ### Page de Garde ###  
-*Titre, nom des membres, date de soumission*
+*Titre, nom des membres, date de soumission*  
+- ### Introduction ###
+*Présentation de la problématique et objectifs du projet*  
+
 
 
