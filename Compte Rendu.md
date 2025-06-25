@@ -15,7 +15,7 @@
 
 ### :date: 3 février 2025 : 
 
-- 1er rdv pour le suivie
+- Premier rendez-vous pour le suivie
 
 - Continuité de recherche d’article (sur LinkedIn) 
 
@@ -64,7 +64,7 @@
 ### :date: 2 mai - 27 mai 2025 : 
 
 - Rédaction du prototype du rapport (donc sans annexes) 
-
+- Deuxième rendez-vous pour le suivie
 - Passage oral sur la structure du projet et le cadrage 
 
 
@@ -90,5 +90,6 @@
 
 ### :date: 20 Juin - 4 Juillet
 - Finalisation du diaporama 
+- Dernier rendez-vous pour le suivie
 - Entrainement pour la soutenance
 - Soutenance Blanche
