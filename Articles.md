@@ -54,3 +54,15 @@
 - [Turbo-Charging Communication: Securing 5G with Encryption Partners ](https://www.linkedin.com/pulse/turbo-charging-communication-securing-5g-encryption-ravina-sonawane-88hsf/?trackingId=IAoSBzQLT9yYpWV%2BRYf77g%3D%3D)
   - Auteur : *Ravina Sonawane*
   - Date : **8 Janvier 2025**
+  
+- [Qu'est-ce que le découpage du réseau 5G ? ](https://tridenstechnology.com/fr/quest-ce-que-le-decoupage-du-reseau-5g/)
+  - Auteur : *Luka Zorko*
+  - Date : **16 Novembre 2020**
+  
+- [IoT, IA et 5G : Quels impacts sur la cybersécurité](https://www.cyber.gc.ca/fr/orientation/considerations-liees-la-cybersecurite-pour-les-reseaux-5g-itsap80116)
+  - Auteur : *Abdelkader El Fayedh*
+  - Date : **23 janvier 2023**
+  
+- [La technologie 5G est-elle dangereuse ? Les avantages et les inconvénients du réseau 5G ](https://www.kaspersky.fr/resource-center/threats/5g-pros-and-cons)
+  - Auteur : *Kaspersky*
+  - Date : **Non disponible**
