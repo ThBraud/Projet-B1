@@ -14,8 +14,8 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 ## :blue_book: Livrables Attendus  
 ### **1. Rapport écrit**
 - Format : A4, entre 15 et 19 pages hors annexes (page de garde, table des matières, captures d’écran)
-- Police : taille 12, interlignes et marges standards
-- Remise : au format numérique, avant le **20 juin**
+- Police : Taille 12, interlignes et marges standards
+- Remise : Format numérique, avant le **20 juin**
 
 ### **2. Présentation orale**
 - Durée totale : 30 minutes  
