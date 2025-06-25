@@ -37,7 +37,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ## Structure du Rapport écrit  
 *Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
-- ###Page de Garde###
+- ### Page de Garde ###  
 *Titre, nom des membres, date de soumission*
 
 
