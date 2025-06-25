@@ -14,7 +14,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ---
 
-## 🎯 Objectifs du projet  
+## :dart: Objectifs du projet  
 - Développer une compréhension approfondie de la problématique choisie.
 - Réaliser une veille technologique exhaustive sur le sujet.
 - Proposer des solutions ou des recommandations basées sur les recherches effectuées.
