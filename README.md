@@ -45,6 +45,10 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 *Explication des termes, des concepts clés et contexte Historique et technologique*  
 - ### Etats de l'Art
 *Analyse des recherches et technologies actuelles, comparaison des différentes approches et études de cas*  
+- ### Méthodologie
+*Decription des méthodes de recherches, outils et techniques utilisés, et critère de sélection des sources*  
+- ### Résultats et discussion
+*Présentation des résultats obtenus 
 
 
 
