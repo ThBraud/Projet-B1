@@ -91,3 +91,39 @@
   - Auteur : *Martin Koppe*
   - Date : **23 novembre 2018**
 
+- [Établir l’intégrité, la confidentialité et la disponibilité sur les réseaux 5G ](https://cpl.thalesgroup.com/fr/encryption/5g-security)
+  - Auteur : *Thalès*
+  - Date : **Non disponible**
+
+- [System INC, Statistiques attaque DDOS ](https://www.businesswire.com/news/home/20230926660640/fr?utm=)
+  - Auteur : *NetScout*
+  - Date : **26 septembre 2023**
+  
+- [Network Slicing ](https://reseaux.orange.fr/actualites/5g-network-slicing.html)
+  - Auteur : *Réseaux Orange*
+  - Date : **Non disponible**
+
+- [Network Slicing ](https://www.bouyguestelecom-entreprises.fr/mag-business/lexique/network-slicing/)
+  - Auteur : *Bouygues Telecom*
+  - Date : **Non disponible**
+  
+- [Tout savoir sur la 5G IOT ](https://objenious.com/blogpost/tout-savoir-sur-la-5g-iot/?hl=fr-FR)
+  - Auteur : *Bouygues Telecom*
+  - Date : **20 Janvier 2025**
+
+- [Quèsaco le SDN (Software-Defined Networking) ?](https://imtech.imt.fr/2020/03/10/quesaco-le-sdn-software-defined-networking/)
+  - Auteur : *Tiphaine Claveau et Adlen Ksentini*
+  - Date : **10 mars 2020**
+
+- [Architecture 5G ](https://blogs.univ-poitiers.fr/f-launay/tag/nfv/)
+  - Auteur : *Frédéric Launay*
+  - Date : **26 février 2021**
+
+- [Attaques et Statistique](https://www.01net.com/actualites/les-reseaux5g-deja-plombes-par-de-vieux-tunnels-gprs-vulnerables-1933998.html)
+  - Auteur : *Gilbert Kallenborn*
+  - Date : **16 juin 2020**
+  
+- [Les tranches de réseau : Network Slicing ](https://blogs.univ-poitiers.fr/f-launay/2018/02/11/les-tranches-de-reseau-network-slicing/#:~:text=L%27isolation%20est%20une%20exigence,physique%20et%20les%20m%C3%AAmes%20infrastructures.)
+  - Auteur : *Frédéric Launay*
+  - Date : **11 février 2018**
+
