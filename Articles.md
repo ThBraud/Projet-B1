@@ -5,6 +5,7 @@
 
 - [Qu'est ce que la sécurité 5G ?](https://www.zscaler.com/fr/zpedia/what-is-5g-security) 
   - Auteur : *Zscaler* 
+  - Date : **Non disponible**
 
 - [Quels sont les défis liés à l’intégration des technologies de la 5G ? ](https://www.cscience.ca/quels-sont-les-defis-lies-a-lintegration-des-technologies-de-la-5g/?gclid=Cj0KCQiAs5i8BhDmARIsAGE4xHxExfJO_OHFgB3CrQ67PoMmkc2-Ujx73-QN1oOxhtQ24iPq5X6EfbUaAjmLEALw_wcB)
   - Autrice : *Chloé-Anne TOUMA*
@@ -21,4 +22,8 @@
 - [Mise en œuvre de solutions de sécurité 5G robustes ](https://www.secure-ic.fr/applications/challenges/5g/?utm_source=chatgpt.com)
   - Auteur : *Secure IC*
   - Date : **Non disponible**
+
+- [Le network slicing 5G potentiellement vulnérable aux attaques](https://www.secure-ic.fr/applications/challenges/5g/?utm_source=chatgpt.com)
+  - Auteur : *Maria Korolov et Jean Elyan*
+  - Date : **02 Juin 2023**
 
