@@ -35,14 +35,14 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
   - 5 minutes de débriefing
 - Soutenance officielle : **4 Juillet 2025**
 
-## :bookmark_tabs: Structure du Rapport écrit  
+## 📑  Structure du Rapport écrit  
 *Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
 - ### Page de Garde  
 *Titre, nom des membres, date de soumission*  
 - ### Introduction  
 *Présentation de la problématique et objectifs du projet*  
 - ### Contexte et Définitions
-*Explication des termes, des concepts clés et contexte Historique et technologique*  
+*Explication des termes, des concepts clés et contexte historique et technologique*  
 - ### Etats de l'Art
 *Analyse des recherches et technologies actuelles, comparaison des différentes approches et études de cas*  
 - ### Méthodologie
@@ -50,5 +50,13 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - ### Résultats et discussion
 *Présentation des résultats obtenus*  
 - ### Propostions et recommandations  
-*Solutions envisagées, persepectives futures et impact potentiel*
+*Solutions envisagées, persepectives futures et impact potentiel*  
+- ### Conclusion  
+*Synthèse des principaux points abordés et réflexion finale
+- ### Bibliographie  
+*Liste des sources utilisées, fiabilité et pertinences*  
+- ### Annexes  
+*Documents suplémentaires et données brutes*  
+- ### Exploitation des acquis théoriques
+
 
