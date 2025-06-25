@@ -27,3 +27,10 @@
   - Auteur : *Maria Korolov et Jean Elyan*
   - Date : **02 Juin 2023**
 
+- [Multiplication des appareils IoT non sécurisés ](https://www.keyfactor.com/fr/solutions/telecom-5g-security/?utm_source=chatgpt.com)
+  - Auteur : *Key Factor*
+  - Date : **Non disponible**
+  
+- [Attaques par déni de service (DDoS) ](https://fr.radware.com/solutions/5g-network-protection/?utm_source=chatgpt.com)
+  - Auteur : *Radware*
+  - Date : **Non disponible**
