@@ -37,10 +37,15 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ## :bookmark_tabs: Structure du Rapport écrit  
 *Le plan donné pouvait être modifié tant que l'on restait dans ce cadre-là*  
-- ### Page de Garde ###  
+- ### Page de Garde  
 *Titre, nom des membres, date de soumission*  
-- ### Introduction ###
+- ### Introduction  
 *Présentation de la problématique et objectifs du projet*  
+- ### Contexte et Définitions
+*Explication des termes, des concepts clés et contexte Historique et technologique*  
+- ### Etats de l'Art
+*Analyse des recherches et technologies actuelles, comparaison des différentes approches et études de cas*  
+
 
 
 
