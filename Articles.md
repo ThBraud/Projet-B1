@@ -34,3 +34,23 @@
 - [Attaques par déni de service (DDoS) ](https://fr.radware.com/solutions/5g-network-protection/?utm_source=chatgpt.com)
   - Auteur : *Radware*
   - Date : **Non disponible**
+  
+- [Menaces liées aux fournisseurs à haut risque](https://op.europa.eu/webpub/eca/special-reports/security-5g-networks-03-2022/fr/?utm_source=chatgpt.com)
+  - Auteur : *Cours des comptes européennes*
+  - Date : **Mars 2022**
+  
+- [Qu’est-ce que la technologie sans fil 5G ? ]( https://www.fortinet.com/fr/resources/cyberglossary/what-is-5g)
+  - Auteur : *Fortinet*
+  - Date : **Non disponible**
+  
+- [Potential cyber security issues with 5G Network ](https://www.linkedin.com/pulse/potential-cyber-security-issues-5g-network-roshan-williams-fpduc/?trackingId=TyF8HEqWQBymW9CKiymKWQ%3D%3D)
+  - Auteur : *Roshan Williams*
+  - Date : **29 Décembre 2024**
+  
+- [5G and Cyber Security: Challenges in the New Era of Connectivity ](https://www.linkedin.com/pulse/5g-cyber-security-challenges-new-era-connectivity-croma-campus-d0fhc/?trackingId=3kjttHYnSduwz6FDJysyyQ%3D%3D)
+  - Auteur : *Chroma Campus*
+  - Date : **10 décembre 2024**
+  
+- [Turbo-Charging Communication: Securing 5G with Encryption Partners ](https://www.linkedin.com/pulse/turbo-charging-communication-securing-5g-encryption-ravina-sonawane-88hsf/?trackingId=IAoSBzQLT9yYpWV%2BRYf77g%3D%3D)
+  - Auteur : *Ravina Sonawane*
+  - Date : **8 Janvier 2025**
