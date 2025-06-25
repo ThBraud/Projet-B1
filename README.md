@@ -48,8 +48,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - ### Méthodologie
 *Decription des méthodes de recherches, outils et techniques utilisés, et critère de sélection des sources*  
 - ### Résultats et discussion
-*Présentation des résultats obtenus 
-
-test test test 
+*Présentation des résultats obtenus*  
+- ### Propostions et recommandations  
 
 
