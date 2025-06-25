@@ -6,9 +6,9 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 
 ## Collaborateur de ce projet  
 
-:man: [Lucas MOLENDI](https://github.com/LucasMolendi)  
+👨  [Lucas MOLENDI](https://github.com/LucasMolendi)  
 
-## :brain: Le sujet 
+## 🧠  Le sujet 
 
 ### **Quels sont les défis de sécurités les plus critiques des réseaux 5G et comment les surmonter ?**  
 
@@ -20,7 +20,7 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - Proposer des solutions ou des recommandations basées sur les recherches effectuées.
 - Exploiter les acquis théoriques des cours techniques, veille technologique, expression écrite, expression orale, et outils bureautiques (Excel, Word, PowerPoint).
 
-## :blue_book: Livrables Attendus  
+## 📑  Livrables Attendus  
 
 ### **Rapport écrit**  
 
@@ -52,4 +52,3 @@ Durant ma première année à Sup de Vinci, j'ai eu comme projet de fin d'année
 - ### Propostions et recommandations  
 *Solutions envisagées, persepectives futures et impact potentiel*
 
-testss
