@@ -28,6 +28,11 @@ La 5G, ou 5ème génération des normes de transfert de données mobiles, a ét�
 ##  Notre perimètre  
 Pour ce projet nous avons défini un périmètre afin d'éviter tout hors-sujet. Nous avons abordé les réseaux 5G ainsi que les défis les plus critiques et les plus importants. Notamment ceux liés à l'architecture de la 5G et aux attaques touchant les réseaux 5G, en nous concentrant sur les attaques DDoS. Pour rester dans ce périmètre, nous avons évoqué, sans les  développer les anciennes générations de réseaux, les objets connectés (IoT), ainsi que les autres types d'attaques. 
 
+## Contraintes du projet  
+Pour ce projet notre école nous a imposé aucune contraintes directes. Cependant, nous avons identifié nous-mêmes certaines contraintes potentielles que nous pouvions nous imposer involontairement. 
+- Manque de connaissance sur le sujet 
+- Manque de transparence d'acteurs du milieu autour de certaines informations
+
 
 
 
