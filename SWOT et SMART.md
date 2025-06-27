@@ -1,7 +1,7 @@
-# C'est quoi un SWOT ?
+# ❓C'est quoi un SWOT ?
 💡*Pour faire simple, SWOT est l'acronyme des mots anglais strengths, weaknesses, opportunities et threats (en français : forces, faiblesses, opportunités et menaces). Il est important d'examiner chacun de ces facteurs pour planifier correctement la croissance d'un projet.*
 
-# C'est quoi un SMART ?
+# ❓C'est quoi un SMART ?
 💡Le SMART est un moyen mnémotechnique permettant de décrire les objectifs que l’on veut exprimer de façon la plus claire, la plus simple à comprendre et pour lesquels les résultats sont réalisables.
 
 # 📋 Le SWOT 
