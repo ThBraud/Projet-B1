@@ -39,3 +39,15 @@
 | - Présentation orale et écrite   |                                        |
 | - Initiation travail en projet   |                                        |
 | - Veille active                  |                                        |
+
+
+# Le SMART 
+- Spécifique : Réaliser une veille technologique et produire un compte rendu complet sur le sujet, ainsi qu’une présentation orale
+  
+- Mesurable :  Suivre un planning avec des échéances a respecter pour chaque étape du projet
+  
+- Atteignable : Utiliser des outils collaboratifs comme Notion, X-Mind ou Mural et les Alertes Googles. Développer nos compétences et nos connaissance.
+  
+- Réaliste : Rédiger un rapport clair et précis. Pour la soutenance, rester concis et éviter les répétitions avec le contenu du rapport écrit. 
+  
+- Temporel : Fixer une date limite deux à trois semaines avant la soutenance  finale, afin d'avoir le temps de relire, de s'entrainer et de conclure correctement le projet. 
